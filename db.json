@@ -16,5 +16,32 @@
       "id": "347d",
       "name": "Cristina Parker"
     }
+  ],
+  "albums": [
+    {
+      "id": "1a",
+      "title": "Hiking Trip",
+      "userId": "59cd"
+    },
+    {
+      "id": "915e",
+      "userId": "59cd",
+      "title": "Handcrafted Soft Pizza"
+    },
+    {
+      "id": "fe0a",
+      "userId": "59cd",
+      "title": "Refined Wooden Shirt"
+    },
+    {
+      "id": "b13c",
+      "userId": "59cd",
+      "title": "Luxurious Rubber Gloves"
+    },
+    {
+      "id": "c619",
+      "userId": "59cd",
+      "title": "Gorgeous Frozen Chair"
+    }
   ]
 }
